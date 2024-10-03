@@ -1,2 +1,3 @@
-# workshop-openai-2024
-Materiais do Workshop OpenAI 2024
+# Workshop de LLMs em Saúde
+
+Materiais educativos para utilização de LLMs no contexto da saúde.
