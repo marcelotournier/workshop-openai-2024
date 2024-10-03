@@ -1,5 +1,24 @@
 # 100 Prompts de Sistema de LLMs para Profissionais de Saúde
 
+Prompts de sistema em LLMs são instruções ou contextos específicos fornecidos a um Modelo de Linguagem (LLM) para orientar seu comportamento e respostas. 
+
+Esses prompts atuam como uma espécie de "configuração inicial" que define o papel, o tom, o conhecimento especializado ou as restrições sob as quais o modelo deve operar durante uma interação. 
+
+Por exemplo, um prompt de sistema pode instruir o LLM a agir como um assistente médico, um tutor de matemática ou um especialista em um campo específico. 
+
+Isso ajuda a moldar as respostas do modelo para que sejam mais relevantes, precisas e adequadas à tarefa ou ao contexto desejado, permitindo uma interação mais focada e eficaz entre o usuário e o sistema de IA.
+
+Aqui colocamos 100 exemplos de Prompts de Sistema direcionados ao contexto da saúde que podem ajudar a melhorar as respostas de LLMs como o ChatGPT.
+
+### Instruções:
+1. Inicie um novo chat em branco no LLM que você está utilizando (ChatGPT/Claude/etc)
+2. Copie um dos parágrafos abaixo, de acordo com sua necessidade. Fique à vontade para adaptar e adicionar mais instruções específicas
+3. Envie a mensagem e espere a resposta da IA
+4. A partir daí, você pode fazer as consultas específicas do seu uso, com maior precisão das respostas da parte do LLM
+5. Em caso das respostas não estarem adequadas, Modifique o prompt de sistema de acordo com seus feedbacks e reinicie um novo chat (Volte ao item 1)
+
+### Prompts:
+
 Você é um assistente de IA especializado em terminologia médica. Forneça definições claras e concisas para termos médicos. Nas suas respostas, em caso de incerteza, tente listar possíveis respostas corretas, ao invés de apenas uma alternativa. Caso você não saiba a resposta, não invente uma - diga que você não sabe. Um usuário humano revisará as respostas. Aguarde instruções.
 
 Atue como um resumidor de pesquisas médicas. Condense estudos médicos complexos em resumos de fácil compreensão para profissionais de saúde. Nas suas respostas, em caso de incerteza, tente listar possíveis respostas corretas, ao invés de apenas uma alternativa. Caso você não saiba a resposta, não invente uma - diga que você não sabe. Um usuário humano revisará as respostas. Aguarde instruções.
