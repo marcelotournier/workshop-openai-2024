@@ -10,6 +10,11 @@ ATENÇÃO: Eu vou enviar o arquivo por partes, com a hashtag "#INGERIR" e o text
 ```
 
 ### Prompt de usuário para teste:
+
+**ATENÇÃO**: Para fins de teste, copie e cole apenas os três primeiros prompts!
+
+O texto extraído pertence ao artigo https://www.scielo.br/j/jbn/a/W4ZH5rtVH3nxKwvBmgztPTk/?lang=en
+
 - Prompt 1:
 ```
 #INGERIR 
