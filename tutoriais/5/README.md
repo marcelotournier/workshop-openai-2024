@@ -36,6 +36,8 @@ Aguarde instruções.
 diabetes prediction
 ```
 
+# Sugestões de exploração
+
 Para os seus próprios prompts, experimente modificar as variáveis do início do prompt do sistema, como por exemplo - buscar no google por artigos no último ano e um resumo final menor (500 palavras, cerca de uma página):
 ```
 $SITE = google.com
