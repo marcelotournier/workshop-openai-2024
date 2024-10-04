@@ -7,7 +7,7 @@ https://notebooklm.google
 - Acesse o site https://notebooklm.google
 - Clique em "novo notebook"
 - Clique em "adicionar fontes"
-- Faça upload do arquivo [abstracts.txt](./abstracts.txt), que contém algumas dezenas de abstracts de papers relacionados a Ozempic e Diabetes
+- Faça upload do arquivo [abstracts.txt](./abstracts.txt), que contém cerca de 1700 abstracts de papers relacionados a Ozempic e Diabetes
 - Adicione o seguinte prompt ao NotebookLM:
 ```
 Eu sou um cientista buscando informações para escrever uma revisão sobre Ozempic (Semaglutide) para tratamento de Diabetes.
