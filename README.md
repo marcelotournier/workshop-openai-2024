@@ -4,3 +4,4 @@ Materiais educativos para utilização de LLMs no contexto da saúde.
 
 ### Materiais educativos:
 - [Slides da Apresentação](./workshop-slides.pdf)
+- [100 prompts de LLM para diversas tarefas](./prompts.md)
